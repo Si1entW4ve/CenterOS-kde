@@ -1,0 +1,27 @@
+[Desktop Entry]
+Name=CenterOS
+Name[zh_CN]=中正作業系統-plasma主題
+Name[zh_TW]=中正作業系統-plasma主題
+Comment=CenterOS default plasma theme by TeahouseLab
+Comment[zh_CN]=中正作業系統-plasma主題，由 TeahouseLab 組合製成
+Comment[zh_TW]=中正作業系統-plasma主題，由 TeahouseLab 組合製成
+
+
+X-KDE-PluginInfo-Author=TsingKwai
+X-KDE-PluginInfo-Email=tsingkwai@protonmail.com
+X-KDE-PluginInfo-Name=default
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://ruzhtw.top
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultWallpaperTheme=Cloudy
+defaultFileSuffix=.png
+defaultWidth=5424
+defaultHeight=2860
+
+[AdaptiveTransparency]
+enabled=true

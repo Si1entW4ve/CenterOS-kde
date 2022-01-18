@@ -1,0 +1,9 @@
+#!/usr/bin/fish
+if ctpkg ctpm l sys | grep -qs center-kde-theme
+else
+ctpkg ctpm p user center-kde-theme
+end
+if ctpkg ctpm l sys | grep -qs papirus-icon-theme
+else
+ctpkg grab papirus-icon-theme
+end
