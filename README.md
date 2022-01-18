@@ -8,6 +8,6 @@ So This is GPLv3 too
 
 > Preview
 
-- ![desktop](https://github.com/TeaHouseLab/CenterOS-kde/raw/main/screenshots/desktop.png){: .responsive-img .materialboxed}
-- ![sysinfo](https://github.com/TeaHouseLab/CenterOS-kde/raw/main/screenshots/sysinfo.png){: .responsive-img .materialboxed}
-- ![konsole](https://github.com/TeaHouseLab/CenterOS-kde/raw/main/screenshots/konsole.png){: .responsive-img .materialboxed}
+- ![desktop](https://github.com/TeaHouseLab/CenterOS-kde/raw/main/screenshots/desktop.png)
+- ![sysinfo](https://github.com/TeaHouseLab/CenterOS-kde/raw/main/screenshots/sysinfo.png)
+- ![konsole](https://github.com/TeaHouseLab/CenterOS-kde/raw/main/screenshots/konsole.png)
