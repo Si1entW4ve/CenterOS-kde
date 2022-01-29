@@ -1,9 +1,10 @@
 [Desktop Entry]
 Name=CenterOS
-Comment=CenterOS Aurorae Theme
-X-KDE-PluginInfo-Author=tsingkwai
+X-KDE-PluginInfo-Author=yeyushengfan258&&tsingkwai
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
 X-KDE-PluginInfo-Email=tsingkwai@protonmail.com
-X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL v3
 X-KDE-PluginInfo-Name=CenterOS
 X-KDE-PluginInfo-Version=1.0
-X-KDE-PluginInfo-EnabledByDefault=true

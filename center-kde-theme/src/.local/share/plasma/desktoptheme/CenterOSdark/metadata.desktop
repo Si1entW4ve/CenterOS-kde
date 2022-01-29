@@ -1,0 +1,23 @@
+[Desktop Entry]
+Name=CenterOSdark
+X-KDE-PluginInfo-Author=yeyushengfan258&&tsingkwai
+X-KDE-PluginInfo-Name=CenterOSdark
+X-KDE-PluginInfo-Email=tsingkwai@protonmail.com
+X-KDE-PluginInfo-Name=default
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://ruzhtw.top
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
+
+[Wallpaper]
+defaultWallpaperTheme=Starry
+defaultFileSuffix=.png
+defaultWidth=5464
+defaultHeight=2640
