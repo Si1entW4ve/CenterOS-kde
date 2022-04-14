@@ -11,6 +11,6 @@ Distribute With GPLv3 License
 
 > OpenSourceProject Used
 
-- ![We10XOS](https://github.com/yeyushengfan258/We10XOS-kde) GPLv3
+- [We10XOS](https://github.com/yeyushengfan258/We10XOS-kde) GPLv3
 
--![FlatBlur](https://github.com/Davide-sd/FlatBlur) GPLv3
+- [FlatBlur](https://github.com/Davide-sd/FlatBlur) GPLv3
