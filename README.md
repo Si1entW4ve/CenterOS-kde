@@ -2,12 +2,15 @@ CenterOS-kde
 ============
 This is a kdeplasma global theme for CenterLinux
 
-Forked from https://github.com/L4ki/Blur-Glassy ,which is GPLv3
-
-So This is GPLv3 too
+Distribute With GPLv3 License
 
 > Preview
 
-- ![desktop](https://github.com/TeaHouseLab/CenterOS-kde/raw/main/screenshots/desktop.png)
-- ![sysinfo](https://github.com/TeaHouseLab/CenterOS-kde/raw/main/screenshots/sysinfo.png)
-- ![konsole](https://github.com/TeaHouseLab/CenterOS-kde/raw/main/screenshots/konsole.png)
+- ![dark](https://github.com/TeaHouseLab/CenterOS-kde/raw/main/screenshots/dark.png)
+- ![light](https://github.com/TeaHouseLab/CenterOS-kde/raw/main/screenshots/light.png)
+
+> OpenSourceProject Used
+
+- ![We10XOS](https://github.com/yeyushengfan258/We10XOS-kde) GPLv3
+
+-![FlatBlur](https://github.com/Davide-sd/FlatBlur) GPLv3
