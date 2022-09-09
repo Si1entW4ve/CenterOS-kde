@@ -2,13 +2,16 @@
 widgetStyle=Breeze
 
 [kdeglobals][General]
-ColorScheme=Breeze-Dark
+ColorScheme=BreezeDark
 
 [kdeglobals][Icons]
 Theme=Papirus
 
 [plasmarc][Theme]
 name=CenterOSdark
+
+[Wallpaper]
+Image=Starry
 
 [kwinrc][org.kde.kdecoration2]
 ButtonsOnLeft=XAI
@@ -17,6 +20,12 @@ library=org.kde.kwin.aurorae
 theme=__aurorae__svg__CenterOSdark
 
 [kcminputrc][Mouse]
-cursorTheme=Adwaita
+cursorTheme=breeze_cursors
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
 
 
