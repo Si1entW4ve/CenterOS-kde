@@ -1,16 +1,17 @@
-CenterOS-kde
+# CenterOS-kde
 ============
-This is a kdeplasma global theme for CenterLinux
+This is a kdeplasma global theme for CenterLinux.
 
-Distribute With GPLv3 License
+Distribute With GPLv3 License.
 
-> Preview
+## Preview
 
-- ![dark](https://github.com/TeaHouseLab/CenterOS-kde/raw/main/screenshots/dark.png)
-- ![light](https://github.com/TeaHouseLab/CenterOS-kde/raw/main/screenshots/light.png)
+![dark](https://github.com/akiko-blog/CenterOS-kde/raw/main/screenshots/dark.png)
 
-> OpenSourceProject Used
+![light](https://github.com/akiko-blog/CenterOS-kde/raw/main/screenshots/light.png)
 
-- [We10XOS](https://github.com/yeyushengfan258/We10XOS-kde) GPLv3
+## Open Source Project Used
 
-- [FlatBlur](https://github.com/Davide-sd/FlatBlur) GPLv3
+- [We10XOS](https://github.com/yeyushengfan258/We10XOS-kde): GPLv3
+
+- [FlatBlur](https://github.com/Davide-sd/FlatBlur): GPLv3
